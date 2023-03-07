@@ -39,4 +39,10 @@ Pada program ini inputan dilakukan secara manual, dan output yang diberikan beru
 
 - List Daftar Matkul
 
+![ss2](https://user-images.githubusercontent.com/100756074/223350111-236be12f-431b-4c29-964d-7287edaad7a1.png)
 
+![ss1](https://user-images.githubusercontent.com/100756074/223350122-8805c6cc-a81e-45ea-ab07-e1aad41f4d9a.png)
+
+- List Prodi dan Matkul yang Ada
+- 
+![ss3](https://user-images.githubusercontent.com/100756074/223350500-0ee6d4ff-9fbc-4fca-93df-548794743c40.png)
